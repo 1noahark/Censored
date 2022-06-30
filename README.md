@@ -8,7 +8,7 @@ it replaces words (specific word) with a censoring star (*) in short it uses a r
 # Future Updates
 
 1. censoring multiple word will come
-2. you can you a censoring icon instead of only star
+2. you can use a censoring icon instead of only star
 
 
 # Bugs 
